@@ -6,7 +6,7 @@
       <LocalizedName description="ALMLab" languagecode="1041" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.0</Version>
+    <Version>1.0.0.1</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>almlab</UniqueName>
@@ -81,6 +81,7 @@
       <RootComponent type="1" schemaName="almlab_timeoffrequest" behavior="0" />
       <RootComponent type="62" schemaName="almlab_TimeOffRequests" behavior="0" />
       <RootComponent type="80" schemaName="almlab_TimeOffRequests" behavior="0" />
+      <RootComponent type="300" schemaName="almlab_timeoffrequestcanvas_7c3d8" behavior="0" />
     </RootComponents>
     <MissingDependencies>
       <MissingDependency>
